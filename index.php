@@ -1,3 +1,3 @@
 <?php 
-	echo "test step 1 on git hub";
+	echo "so i understand whathappen";
 ?>
