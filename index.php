@@ -1,3 +1,3 @@
 <?php 
-	echo "so i understand whathappen";
+	echo "test on LOCAL";
 ?>
